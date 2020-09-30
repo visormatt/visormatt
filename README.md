@@ -1,10 +1,6 @@
 # I'm Matt! 👋
 
-👨‍💻 A Software Engineer by day.
-
-📚 Perpetual student of technology at night.
-
-🧱 Founder of [BarGuide.io](https://www.barguide.io).
+👨‍💻 A Software Engineer
 
 🌎 Find me online:
 
