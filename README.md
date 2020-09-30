@@ -4,7 +4,7 @@
 
 📚 Perpetual student of technology at night.
 
-🧱 Founder of BarGuide.io.
+🧱 Founder of [BarGuide.io](https://www.barguide.io).
 
 🌎 Find me online:
 
