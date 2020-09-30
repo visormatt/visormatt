@@ -2,15 +2,9 @@
 
 👨‍💻 A Software Engineer by day.
 
----
-
 📚 Perpetual student of technology at night.
 
----
-
 🧱 Founder of BarGuide.io.
-
----
 
 🌎 Find me online:
 
