@@ -1,6 +1,6 @@
 # I'm Matt 👋
 
-        👨‍💻 A Software Engineer passionate about creating quality code for humans, unlocking developer productivity, and creating delightful user experiences.
+> 👨‍💻 A Software Engineer passionate about creating quality code for humans, unlocking developer productivity, and creating delightful user experiences.
 
 ## Connect online
 
