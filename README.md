@@ -1,10 +1,11 @@
-# I'm Matt! 👋
+# I'm Matt 👋
 
-👨‍💻 A Software Engineer
+👨‍💻 A Software Engineer passionate about creating quality code for humans, unlocking developer productivity, and creating delightful user experiences.
 
-🌎 Find me online:
+## Connect online
 
-- 👱 Portfolio [mattscholta.com](https://www.mattscholta.com)
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/matthewscholta)
+- 🌎 Online [mattscholta.com](https://www.mattscholta.com)
+- 💼 Professionally on [LinkedIn](https://www.linkedin.com/in/matthewscholta)
 - 🐦 Occasionally on [Twitter](https://twitter.com/visormatt)
+
 <!-- - 🕹️ Tinkering on [Codepen](https://codepen.io/visormatt) -->
