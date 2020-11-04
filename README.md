@@ -6,8 +6,8 @@
 
 ## Connect online
 
-- 🌎 Online [mattscholta.com](https://www.mattscholta.com)
-- 💼 Professionally on [LinkedIn](https://www.linkedin.com/in/matthewscholta)
-- 🐦 Occasionally on [Twitter](https://twitter.com/visormatt)
+- 🌎 &nbsp;Online [mattscholta.com](https://www.mattscholta.com)
+- 💼 &nbsp;Professionally on [LinkedIn](https://www.linkedin.com/in/matthewscholta)
+- 🐦 &nbsp;Occasionally on [Twitter](https://twitter.com/visormatt)
 
 <!-- - 🕹️ Tinkering on [Codepen](https://codepen.io/visormatt) -->
