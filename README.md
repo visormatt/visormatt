@@ -1,6 +1,6 @@
 # I'm Matt 👋
 
-> 👨‍💻 A Software Engineer passionate about creating quality code for humans, unlocking developer productivity, and creating delightful user experiences.
+> 👨‍💻 A **Software Engineer** passionate about **quality code** written for **humans**, unlocking **developer productivity**, and creating delightful **user experiences**.
 
 ![Matthews's github stats](https://github-readme-stats.vercel.app/api?username=visormatt&count_private=true&show_icons=true&show_owner=true&theme=default&hide=contribs)
 
