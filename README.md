@@ -1,6 +1,7 @@
-<img data-color-mode="light" src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions.svg" />
-
-<img data-color-mode="dark" src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions-dark.svg" />
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions.svg">
+</picture>
 
 # I'm Matt 👋
 
