@@ -1,6 +1,8 @@
-# I'm Matt 👋
+<img data-color-mode="light" src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions.svg" />
 
-<img src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions.svg" />
+<img data-color-mode="dark" src="https://raw.githubusercontent.com/visormatt/visormatt/contributions/contributions-dark.svg" />
+
+# I'm Matt 👋
 
 > 👨‍💻 A **Software Engineer** passionate about **quality code** written for **humans**, unlocking **developer productivity**, and creating delightful **user experiences**.
 
