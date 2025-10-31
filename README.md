@@ -5,11 +5,11 @@
 
 # I'm Matt 👋
 
-> 👨‍💻 A **Software Engineer** passionate about **quality code** written for **humans**, unlocking **developer productivity**, and creating delightful **user experiences**.
+> [!tip]
+> 👨‍💻 Writing code that **humans** love to read, accelerating **developer productivity**, and crafting **delightful experiences** for users and developers alike.
 
-![Matthews's github stats](https://github-readme-stats.vercel.app/api?username=visormatt&count_private=true&show_icons=true&show_owner=true&theme=default&hide=contribs)
-
-![Matthew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=visormatt&theme=default&layout=compact)
+<!-- ![Matthews's github stats](https://github-readme-stats.vercel.app/api?username=visormatt&count_private=true&show_icons=true&show_owner=true&theme=default&hide=contribs) -->
+<!-- ![Matthew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=visormatt&theme=default&layout=compact) -->
 
 ## Connect online
 
